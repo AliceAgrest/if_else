@@ -1,0 +1,15 @@
+/Users/Alice/Projects/TestTry/TestTry/bin/Debug/net6.0/TestTry
+/Users/Alice/Projects/TestTry/TestTry/bin/Debug/net6.0/TestTry.deps.json
+/Users/Alice/Projects/TestTry/TestTry/bin/Debug/net6.0/TestTry.runtimeconfig.json
+/Users/Alice/Projects/TestTry/TestTry/bin/Debug/net6.0/TestTry.dll
+/Users/Alice/Projects/TestTry/TestTry/bin/Debug/net6.0/TestTry.pdb
+/Users/Alice/Projects/TestTry/TestTry/obj/Debug/net6.0/TestTry.csproj.AssemblyReference.cache
+/Users/Alice/Projects/TestTry/TestTry/obj/Debug/net6.0/TestTry.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alice/Projects/TestTry/TestTry/obj/Debug/net6.0/TestTry.AssemblyInfoInputs.cache
+/Users/Alice/Projects/TestTry/TestTry/obj/Debug/net6.0/TestTry.AssemblyInfo.cs
+/Users/Alice/Projects/TestTry/TestTry/obj/Debug/net6.0/TestTry.csproj.CoreCompileInputs.cache
+/Users/Alice/Projects/TestTry/TestTry/obj/Debug/net6.0/TestTry.dll
+/Users/Alice/Projects/TestTry/TestTry/obj/Debug/net6.0/refint/TestTry.dll
+/Users/Alice/Projects/TestTry/TestTry/obj/Debug/net6.0/TestTry.pdb
+/Users/Alice/Projects/TestTry/TestTry/obj/Debug/net6.0/TestTry.genruntimeconfig.cache
+/Users/Alice/Projects/TestTry/TestTry/obj/Debug/net6.0/ref/TestTry.dll
