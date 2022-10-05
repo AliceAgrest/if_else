@@ -33,13 +33,13 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 Console.WriteLine("Ops the ahadot is bigger then the meot");
             
             // answer 3
-            int num, num1, num2, num3;
+            int num4, num1, num2, num3;
             Console.WriteLine("Enter a number three digit: ");
-            num = int.Parse(Console.ReadLine());
+            num4 = int.Parse(Console.ReadLine());
 
-            num1 = num%10;
-            num2 = num/100;
-            num3 = num % 100 / 10;
+            num1 = num4%10;
+            num2 = num4/100;
+            num3 = num4 % 100 / 10;
 
             if ((num1 + num2) > num3 && (num2 + num3) > num1 && (num3 + num1) > num2)
                 Console.WriteLine("The combination of these three numbers can be a sides of triangle");
