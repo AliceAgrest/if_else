@@ -6,7 +6,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            /*
+            
             // answer 1
             int training;
             Console.WriteLine("Enter a number of bascket player's hour training: ");
@@ -66,7 +66,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 v3 = kwh / 17 + kwh;
                 Console.WriteLine("our value is " + v3);
             } 
-            */
+            
             // answer 5
             char a, b;
             Console.WriteLine("Enter a letter ");
